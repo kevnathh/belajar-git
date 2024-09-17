@@ -1,1 +1,2 @@
-saya belajar git dengan semangat
+saya belajar git dengan semangat.
+Hello World!
